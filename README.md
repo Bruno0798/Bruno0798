@@ -1,8 +1,3 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.4/ci.min.css"
-/>
-
 <h1 align="center">Hi 👋, I'm Bruno Miguel</h1>
 <h3 align="center">A passionate programmer from Portugal</h3>
 
@@ -21,8 +16,7 @@
  <a href="https://instagram.com/brunomiguel.7" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" />
   </a>
-<a href="https://www.leetcode.com/strykerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="strykerx" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bruno-miguel-59945424a/" target="blank"><img src="./svg/git.svg" width="16px"></a>
+<a href="https://www.leetcode.com/strykerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="strykerx" height="50" width="50" /></a>
   </a>
 </p>
 
