@@ -31,4 +31,4 @@
 </p>
 
 <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bruno0798&show_icons=true&locale=en&theme=chartreuse-dark&bg_color=00000000&icon_color=0ef047" alt="bruno0798" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno0798&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&bg_color=00000000&icon_color=0ef047" alt="bruno0798" /></p>
+<img height="160"src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno0798&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&bg_color=00000000&icon_color=0ef047" alt="bruno0798" /></p>
