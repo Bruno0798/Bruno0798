@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno0798&label=Profile%20views&color=0e75b6&style=flat" alt="bruno0798" /> </p>
 
+- <a href="https://github.com/oakoudad/badge42"><img align="right" src="https://badge.mediaplus.ma/greenbinary/bsousa-d?1337Badge=off&UM6P=off" alt="bsousa-d's 42 stats" /></a>
+
 - 🔭 I’m currently working on **get_next_line**
 
 - 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **brunomoguel0798@gmail.com**
-
-- <a href="https://github.com/oakoudad/badge42"><img align="right" src="https://badge.mediaplus.ma/greenbinary/bsousa-d?1337Badge=off&UM6P=off" alt="bsousa-d's 42 stats" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
