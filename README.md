@@ -16,7 +16,7 @@
  <a href="https://instagram.com/brunomiguel.7" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" />
   </a>
-<a href="https://www.leetcode.com/strykerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="strykerx" height="45" width="45" /></a>
+<a href="https://www.leetcode.com/strykerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="strykerx" height="47" width="47" /></a>
   </a>
 </p>
 
