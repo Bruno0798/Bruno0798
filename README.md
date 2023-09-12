@@ -30,5 +30,5 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bruno0798&show_icons=true&locale=en" alt="bruno0798" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno0798&show_icons=true&locale=en&layout=compact" alt="bruno0798" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bruno0798&show_icons=true&locale=en" alt="bruno0798" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno0798&show_icons=true&locale=en&layout=compact" alt="bruno0798" /></p>
