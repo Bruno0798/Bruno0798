@@ -21,6 +21,7 @@
 <a href="https://instagram.com/brunomiguel.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunomiguel.7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/strykerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="strykerx" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bruno-miguel-59945424a/" target="blank"><img src="./svg/spotify.svg" align="center" height="30" width="40" /></a>
+  <i class="ci ci-spotify ci-2x"></i>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
