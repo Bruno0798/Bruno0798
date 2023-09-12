@@ -29,6 +29,8 @@
     <img src="https://skillicons.dev/icons?i=c,java,css,html,linux,vscode" />
   </a>
 </p>
+
 ---
+
 <p align="center" >&nbsp;<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruno0798&show_icons=true&locale=en&theme=chartreuse-dark&bg_color=00000000&icon_color=0ef047" alt="bruno0798" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno0798&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&bg_color=00000000&icon_color=0ef047" alt="bruno0798" /></p>
