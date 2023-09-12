@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Miguel</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A passionate programmer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno0798&label=Profile%20views&color=0e75b6&style=flat" alt="bruno0798" /> </p>
 
