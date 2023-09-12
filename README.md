@@ -18,13 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/brunomiguel.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunomiguel.7" height="30" width="40" /></a>
+ <a href="https://instagram.com/brunomiguel.7" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 <a href="https://www.leetcode.com/strykerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="strykerx" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bruno-miguel-59945424a/" target="blank"><img src="./svg/git.svg" width="16px"></a>
-</p>
-<p align="center">
- <a href="https://instagram.com/brunomiguel.7" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
