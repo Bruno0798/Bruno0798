@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **get_next_line**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C** and **Python**
 
 - 📫 How to reach me **brunomoguel0798@gmail.com**
 
