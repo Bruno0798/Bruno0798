@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cub3d**
 
-- 🌱 I’m currently learning **C** and **Python**
+- 🌱 I’m currently learning **C**, **C++** and **Python**
 
 - 📫 How to reach me **brunomiguel0798@gmail.com**
 
