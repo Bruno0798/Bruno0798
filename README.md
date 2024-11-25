@@ -5,7 +5,7 @@
 
 <a href="https://github.com/oakoudad/badge42"><img align="right" src="https://badge.mediaplus.ma/greenbinary/bsousa-d?1337Badge=off&UM6P=off" alt="bsousa-d's 42 stats" /></a>
 
-- 🔭 I’m currently working on **Cub3d**
+- 🔭 I’m currently working on **CPP**
 
 - 🌱 I’m currently learning **C**, **C++** and **Python**
 
